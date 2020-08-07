@@ -1,8 +1,7 @@
-# SBL
-SBL4 from NoiseLab
+# SBL4 from NoiseLab
 Santosh Nannuru, Kai Gemba and Peter Gerstoft
 
-Examples 
+# Examples 
 Multi frequency DOA matlab (Kai)
 
 Multi frequency DOA Phyton (peter based on Kai's example)
@@ -10,7 +9,7 @@ Multi frequency DOA Phyton (peter based on Kai's example)
 Pyroomacoustics and SBL (Peter)
 
 
-Refrerences
+# Refrerences
 Gerstoft, Peter, Christoph F. Mecklenbräuker, Angeliki Xenaki, Santosh Nannuru (2016), Multisnapshot sparse Bayesian Learning for DOA, IEEE Signal Process. Lett., Vol 23, 1469-1473 doi:10.1109/LSP.2016.2598550 ,
 
 Gemba, Kay L., Santosh Nannuru, Peter Gerstoft, William S. Hodgkiss (2017), Multi-frequency sparse Bayesian learning for robust matched field processing, J Acoust. Soc. Am. 141, 3411-3420, DOI: 10.1121/1.4983467. 
