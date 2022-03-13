@@ -194,7 +194,7 @@ def SBL(A, Y, options):
             gamma_denum[ Itheta,iF] = np.abs(np.sum(ApSigmaYinv.T * Af , axis = 0))
 
 
-        gamma[Itheta] *= np.sum(gamma_num[Itheta],1) / np.sum(gamma_denum[Itheta],1)
+        gamma[Itheta] *= (np.sum(gamma_num[Itheta],1) / np.sum(gamma_denum[Itheta],1))**(1/options.fixedpoint)
         # Fixed point Eq. Update
         # gamma[Itheta] *= (np.sum(gamma_num,1) / np.sum(gamma_denum,1)**(1/options.fixedpoint)[Itheta]
 
