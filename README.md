@@ -1,5 +1,5 @@
 # SBL4 from NoiseLab
-Santosh Nannuru, Kai Gemba and Peter Gerstoft
+Yongsung Park, Santosh Nannuru, Kai Gemba and Peter Gerstoft
 
 # Examples 
 Multi frequency DOA matlab (Kai)
