@@ -6,7 +6,8 @@ Multi frequency DOA matlab (Kai)
 
 Multi frequency DOA Phyton (peter based on Kai's example)
 
-Pyroomacoustics and SBL (Peter)
+Pyroomacoustics and SBL (Peter). The Pyrrom has not been used since summer 2020.
+The file Y_test_beta.mat can be downloaded here: http://noiselab.ucsd.edu/Zipfiles/Y_test_beta.mat
 
 
 # Refrerences
