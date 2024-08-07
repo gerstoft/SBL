@@ -2,11 +2,11 @@
 Yongsung Park, Santosh Nannuru, Kai Gemba and Peter Gerstoft
 
 # Examples 
-Multi frequency DOA matlab (Kai)
+Multi-frequency DOA matlab (Kai)
 
-Multi frequency DOA Phyton (peter based on Kai's example)
+Multi-frequency DOA Phyton (Peter based on Kai's example)
 
-Pyroomacoustics and SBL (Peter). The Pyrrom has not been used since summer 2020.
+Pyroomacoustics and SBL (Peter). The Python version has not been used since summer 2020.
 The file Y_test_beta.mat can be downloaded here: http://noiselab.ucsd.edu/Zipfiles/Y_test_beta.mat
 
 
